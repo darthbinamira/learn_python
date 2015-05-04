@@ -23,3 +23,6 @@ print "Is it greater or equal?", 5 >= -2
 print "Is it lesser or equal?", 5 <= -2
 
 print "100 % 16 is", 100 % 16
+
+print "7 / 4 is", 7 / 4
+print "7.0 / 4.0 is", 7.0 / 4.0
