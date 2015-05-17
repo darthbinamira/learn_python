@@ -1,2 +1,6 @@
 # learn_python
-Exercises for learning python based on the award-winning book by Zed A. Shaw
+Exercises for learning python
+
+
+lpthw - http://learnpythonthehardway.org/book/
+mgwpnp - https://inventwithpython.com/pygame/chapters/
